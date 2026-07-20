@@ -1,0 +1,11 @@
+2026-04-11 00:31:59.899045: Client1 connected from ('127.0.0.1', 59522)
+2026-04-11 00:32:13.555453: Client2 connected from ('127.0.0.1', 59526)
+2026-04-11 00:32:17.849071: Client2 sent: UPPER: malak -> MALAK
+2026-04-11 00:32:29.634218: Client1 sent: LOWER: haneeN -> haneen
+2026-04-11 00:34:01.054983: Client1 sent: VOWELS: seif -> 2
+2026-04-11 00:41:34.444973: Client1 disconnected.
+2026-04-11 00:41:35.330059: Client2 disconnected.
+2026-04-11 00:42:04.669250: Client1 connected from ('127.0.0.1', 59683)
+2026-04-11 00:42:17.741655: Client1 sent: UPPER: vowel -> VOWEL
+2026-04-11 00:43:04.975359: Client2 connected from ('127.0.0.1', 59695)
+2026-04-11 00:43:14.480721: Client2 sent: TIME:  -> 00:43:14
